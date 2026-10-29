@@ -1,131 +1,185 @@
- <!-- README.md -->
+ <!-- ============== HEADER ============== -->
 
 <div align="center">
 
-# Hey, I'm Siddharth Kumar 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0c29,50:5b1a8f,100:d6249f&text=SIDDHARTH&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Software%20Engineering%20%7C%20Data%20Science%20%7C%20Applied%20AI&descAlignY=58&descSize=16&animation=fadeIn" alt="Siddharth profile banner"/>
 
-### Software Engineer in the Making | AI/ML & Full-Stack Developer
-
-Building practical software, exploring intelligent systems, and solving problems one commit at a time.
-
-<a href="https://github.com/Siddharth8445">
-  <img src="https://komarev.com/ghpvc/?username=Siddharth8445&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=D6249F&background=00000000&center=true&vCenter=true&width=750&height=55&lines=B.Tech+CSE+%7C+Data+Science;DSA+%7C+Competitive+Programming;Full-Stack+Development+%7C+Applied+AI;Learning%2C+Building%2C+Improving." alt="Animated typing introduction"/>
 </a>
-<a href="https://github.com/Siddharth8445?tab=followers">
-  <img src="https://img.shields.io/github/followers/Siddharth8445?style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
+
+<br/>
+
+<a href="https://github.com/Siddharth8445?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-5b1a8f?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
+<a href="https://www.linkedin.com/in/siddharth-kumar-6a1b55380/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Siddharth8445&style=flat-square&color=d6249f&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student specializing in Data Science.
-- 💻 Interested in Software Engineering, AI/ML, and full-stack development.
-- 🧠 Practicing Data Structures & Algorithms using C++.
-- 🤖 Exploring Machine Learning, NLP, Generative AI, and RAG systems.
-- 🛠️ Building projects that combine software engineering with practical AI applications.
-- 🎯 Focused on becoming a stronger problem solver and preparing for software engineering internships.
+I'm a B.Tech Computer Science and Engineering student specializing in **Data Science**, interested in software engineering, full-stack development, and applied artificial intelligence.
+
+- 🎓 Studying Computer Science and Engineering.
+- 💻 Programming in C++, Python, JavaScript, and SQL.
+- 🧠 Practicing Data Structures & Algorithms and competitive programming.
+- 🌐 Exploring full-stack development with React and Node.js.
+- 🤖 Learning Machine Learning, NLP, Generative AI, and RAG.
+- 🎯 Working toward SWE and AI/ML internship opportunities.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+**Programming Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div>
+<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="C++, Python, JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</div>
 
 **Web Development**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="HTML, CSS, React, Node.js, Express"/>
+</div>
 
 **AI / Machine Learning**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+<div>
+<img src="https://skillicons.dev/icons?i=python,opencv,sklearn,pytorch&theme=dark" alt="Python, OpenCV, Scikit-learn, PyTorch"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/NLP-Exploring-5b1a8f?style=flat-square" alt="NLP"/>
+<img src="https://img.shields.io/badge/Generative_AI-Exploring-d6249f?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-Exploring-5b1a8f?style=flat-square" alt="RAG"/>
+</div>
 
-**Tools & Databases**
+**Databases & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🚗 Ford Price Prediction
-Machine learning project to predict Ford car prices using Linear Regression.
-
-**Tech:** Python · Jupyter Notebook · Machine Learning
-
-[View Repository](https://github.com/Siddharth8445/Ford-Price-Prediction-Project)
-
-### ❤️ Heart Disease Prediction
-Machine learning application for heart disease prediction with an interactive Streamlit interface.
-
-**Tech:** Python · Scikit-learn · Streamlit
-
-[View Repository](https://github.com/Siddharth8445/Heart_Disease_Project)
-
-### 😊 Emotion Detection App
-Text-based emotion classification covering emotions such as joy, sadness, anger, fear, love, and surprise.
-
-**Tech:** Python · NLP · TF-IDF · Streamlit
-
-[View Repository](https://github.com/Siddharth8445/Emotion-detection-app)
-
-### 🛍️ Myntra Clone
-A responsive e-commerce homepage inspired by Myntra, built with HTML and CSS.
-
-**Tech:** HTML · CSS
-
-[View Repository](https://github.com/Siddharth8445/Myntra-clone)
-
-> Replace or reorder these projects as you publish stronger, more complete portfolio projects.
+<div>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,vscode&theme=dark" alt="MongoDB, MySQL, Git, GitHub, Docker, VS Code"/>
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚗 <a href="https://github.com/Siddharth8445/Ford-Price-Prediction-Project">Ford Price Prediction</a></h3>
+
+Machine learning project focused on predicting Ford vehicle prices.
+
+**Focus:** Regression and predictive modeling.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>❤️ <a href="https://github.com/Siddharth8445/Heart_Disease_Project">Heart Disease Prediction</a></h3>
+
+Machine learning project for heart disease prediction with a Streamlit interface.
+
+**Focus:** Classification and interactive ML applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>😊 <a href="https://github.com/Siddharth8445/Emotion-detection-app">Emotion Detection App</a></h3>
+
+Text-based emotion classification for joy, sadness, anger, fear, love, and surprise.
+
+**Focus:** NLP, TF-IDF, and machine learning.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛍️ <a href="https://github.com/Siddharth8445/Myntra-clone">Myntra Clone</a></h3>
+
+Responsive e-commerce homepage inspired by the Myntra shopping experience.
+
+**Focus:** Frontend development with HTML and CSS.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddharth8445&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth8445&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Siddharth8445&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<a href="https://github.com/Siddharth8445?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-5b1a8f?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+</a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Siddharth8445">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/siddharth-kumar-6a1b55380/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddharth8445&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d6249f&icon_color=bc13fe&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
-**Open to learning, collaborating, and building impactful projects.**
+<a href="https://github.com/Siddharth8445">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth8445&layout=compact&hide_border=true&bg_color=0d1117&title_color=d6249f&text_color=c9d1d9&langs_count=8" alt="Most used languages"/>
+</a>
 
-⭐ If you find something useful here, consider starring the repository!
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Siddharth8445&theme=dark&hide_border=true&background=0d1117&ring=d6249f&fire=d6249f&currStreakLabel=d6249f&sideLabels=bc13fe&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth8445&bg_color=0d1117&color=d6249f&line=bc13fe&point=ffffff&area=true&area_color=5b1a8f&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
+
+---
+
+## 🎯 Current Focus
+
+- 📚 Strengthening DSA and competitive programming in C++.
+- 💻 Writing clean, maintainable software.
+- 🌐 Building full-stack applications.
+- 🤖 Developing practical AI and machine learning projects.
+- 🚀 Preparing for software engineering and AI/ML internships.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Siddharth8445">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/siddharth-kumar-6a1b55380/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
+
+<br/><br/>
+
+**Learning every day. Building with purpose. Improving with every commit.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:d6249f,50:5b1a8f,100:0f0c29&section=footer" alt="Purple gradient footer"/>
+
+</div>
+
+
 
